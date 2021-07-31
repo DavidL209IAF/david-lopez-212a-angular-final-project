@@ -1,0 +1,30 @@
+.mainContainer{
+    min-width: 330px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px;
+    min-width: 350px;
+}
+
+#loginButton, #logoutButton{
+    margin-right: 10px;
+}
+
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+
+.centerCol{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centerColRow{
+    display: flex;
+    justify-content: center;
+}
+
+#navMenuButton{
+    margin-left: 15px;
+}
